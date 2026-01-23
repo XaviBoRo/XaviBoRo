@@ -1,7 +1,7 @@
 # ¡Hola! Soy Xavi Boniquet 👋
 
 ### 🚀 Sobre mí
-Soy un **Android Developer** apasionado por la informática y la tecnología, con experiencia en entornos corporativos y proyectos personales innovadores. Actualmente, me enfoco en crear experiencias móviles modernas y eficientes.
+Android Developer con experiencia en proyectos corporativos y personales, enfocado en el aprendizaje continuo y en la creación de experiencias móviles modernas y eficientes. 
 
 - 📱 Actualmente evolucionando **DISAPP** en Aluminis DISA (Gestión de presupuestos).
 - 🛠 Desarrollando proyectos propios como **RoadReminder** (Infotainment) y **TaskList**.
